@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+}
+
+header {
+    color: black;
+    text-align: center;
+    font-size:  250%;
+
+}
+div ul li {
+    color: yellow;
+  font-size: 150%;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-size:  500%;
+}
+
+img{
+    margin-left: 30%;
+    width :40%
+}
