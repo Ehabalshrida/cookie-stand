@@ -88,6 +88,6 @@ function submitHandler(event) {
   let newLocation = new Cookie(locationName, max, min, avg);
   newLocation.land();
   footer();
-  //areas.reset();
+  areas.reset();
   tableelement.deleteRow(all.length);
 }
